@@ -32,5 +32,6 @@
   },
   "footer": {
     "linkToDocs": "Visit the <a href=\"https://www.inlang.com\">docs</a> to learn more about Inlang."
-  }
+  },
+  "hello-hof-capital": "Welcome to SvelteKit"
 }
