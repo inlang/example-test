@@ -14,7 +14,7 @@
 			"messageLintRule.inlang.missingTranslation": "error"
 		},
 		"plugin.inlang.json": {
-			"pathPattern": "resources/{language}.json"
+			"pathPattern": "./resources/{language}.json"
 		}
 	}
 }
